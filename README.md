@@ -34,7 +34,7 @@
   <!-- ESPAÑOL -->
   <div class="lang" id="es">
     <h2>🇪🇸 Política de Privacidad</h2>
-    <p>Burgos 360, desarrollada por Marenz24, respeta tu privacidad y se compromete a proteger los datos personales que puedas proporcionar al usar la aplicación. Esta política explica qué información recopilamos, cómo la usamos y cuáles son tus derechos. No recopilamos datos personales sin tu consentimiento. Algunos servicios de terceros (como mapas o reproductores de audio) pueden usar datos anónimos o cookies para mejorar el funcionamiento de la app.</p>
+    <p>Burgos 360, desarrollada por Marenz24, respeta tu privacidad y se compromete a proteger los datos personales que puedas proporcionar al usar esta aplicación. Esta política explica qué información recopilamos, cómo la usamos y cuáles son tus derechos. No recopilamos datos personales sin tu consentimiento. Algunos servicios de terceros (como mapas o reproductores de audio) pueden usar datos anónimos o cookies para mejorar el funcionamiento de la app.</p>
     <p>Al utilizar esta aplicación, aceptas esta política de privacidad y el posible uso de tecnologías de análisis o publicidad anónima.</p>
     <p>Si tienes preguntas o deseas eliminar tus datos, puedes contactar con el desarrollador a través del correo disponible en Google Play.</p>
   </div>
